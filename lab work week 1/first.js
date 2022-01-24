@@ -1,5 +1,5 @@
 function greet(){
-    console.log('Welcome to Kermits Website.');
+    console.log('This is a greeting.');
 }
 
 greet();
