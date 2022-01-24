@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JaimiiGrindhouse
 - 👀 I’m interested in python, javascrpt, html, css 
-- 🌱 I’m currently studting my MSc in computer science
+- 🌱 I’m currently studying my MSc in computer science
 - 💞️ I’m looking to collaborate on full stack dev projects to help me learn
 - 📫 How to reach me 
 
